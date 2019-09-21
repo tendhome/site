@@ -2,8 +2,8 @@
 name: "Tend Home Inc"
 title: "Toronto"
 description: "Home Maintenance for busy people"
-logo: 'assets/images/tendhome.png'
-favicon: 'assets/images/tendhome.png'
+logo: 'assets/images/tendhome.jpg'
+favicon: 'assets/images/tendhome.jpg'
 include: ["_pages"]
 permalink: /:title/
 
