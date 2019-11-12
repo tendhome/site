@@ -4,7 +4,7 @@ title:  "Lawn Care"
 author: john
 categories: [ Lawncare, blog ]
 tags: [red, yellow]
-image: assets/images/lawn.jpg
+image: assets/images/snow.jpg
 description: "Keep your lawn looking sharp even when busy, sick or away."
 featured: true
 hidden: true
