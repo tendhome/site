@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Tend Home Inc provides on demand services to busy homeowners. Currently we are providing on demand leaf blowing</p>
+<p>Tend Home Inc provides on demand services to busy homeowners. Currently we are providing on demand snow clearing</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/leaf-removal-atlanta-ga_orig.jpg" alt="jekyll template mediumish" /></p>
 
