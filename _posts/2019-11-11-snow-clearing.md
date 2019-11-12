@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Lawn Care"
+title:  'Snow Clearing'
 author: john
-categories: [ Lawncare, blog ]
+categories: [ Snow Clearing, Snow Removal, blog ]
 tags: [red, yellow]
 image: assets/images/snow.jpg
-description: "Keep your lawn looking sharp even when busy, sick or away."
+description: "Keep your property clear of snow even when busy, sick or away"
 featured: true
 hidden: true
 ---
