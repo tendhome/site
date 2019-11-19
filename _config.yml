@@ -1,7 +1,7 @@
 # Site
 name: "Tend Home Inc"
 title: "Toronto"
-description: "Home Maintenance for busy people"
+description: "Snow Removal Service for Homes, Businesses or Places of Worship"
 logo: 'assets/images/tendhome.jpg'
 favicon: 'assets/images/tendhome.jpg'
 include: ["_pages"]
