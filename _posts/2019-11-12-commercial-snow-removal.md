@@ -10,7 +10,7 @@ description: 'From places of worship to strip malls, we do it all'
 
 Taking on new clients all winter.
 
-Has your snow removal company forsaken you? Keep your church or place of worship clear from snow this winter. Call us anytime during the winter season and let us help you out.
+Has your snow removal company forsaken you? Keep your business or place of worship clear from snow this winter. Call us anytime during the winter season and let us help you out.
 
 No deposit required. You get an invoice for 1/4 of the total fee on the 23rd of December, January, February and March.
 

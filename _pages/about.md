@@ -23,10 +23,10 @@ comments: true
         Areas serviced in Toronto are Etobicoke, and properties south of the 401 and west of Yonge st
       </p>
       <p class="mb-5">
-        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/marlee1.jpg" alt="stripmall snow removal" />
+        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/marlee1.jpg" alt="stripmall snow removal" class="rotate90" />
       </p>
       <p class="mb-5">
-        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/marlee2.jpg" alt="stripmall snow removal" />
+        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/marlee2.jpg" alt="stripmall snow removal" class="rotate90" />
       </p>
       <p class="mb-5">
         <img class="shadow-lg" src="{{site.baseurl}}/assets/images/church.jpg" alt="church mall snow removal" />
