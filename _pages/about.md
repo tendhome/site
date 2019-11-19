@@ -1,33 +1,39 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Us
 permalink: /about
 comments: true
 ---
-
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
-
-<p>Tend Home Inc provides on demand services to busy homeowners. Currently we are providing on demand snow clearing</p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/leaf-removal-atlanta-ga_orig.jpg" alt="jekyll template mediumish" /></p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/l3.jpg" alt="jekyll template mediumish" /></p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/l2.jpg" alt="jekyll template mediumish" /></p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/l1.jpg" alt="jekyll template mediumish" /></p>
-
-</div>
-
-<div class="col-md-4">
-
 <div class="sticky-top sticky-top-80">
-<h5>Contact Us</h5>
-
-<p>647-382-7084</p>
-<p>info@tendhome.ca</p>
-
-</div>
-</div>
+  <h5>
+    Contact Us
+  </h5>
+  <p>
+    call or text: 647-382-7084 (Eli)
+  </p>
+  <p>
+    info@tendhome.ca
+  </p>
+  <div class="row justify-content-between">
+    <div class="col-md-8 pr-5">
+      <p>
+        Tend Home Inc provides on demand services to busy homeowners, their businesses and more. We are taking on new clients for the Winter 2019 snow removal season. New clients will be considered throughout the season.
+      </p>
+      <p>
+        Areas serviced in Toronto are Etobicoke, and properties south of the 401 and west of Yonge st
+      </p>
+      <p class="mb-5">
+        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/marlee1" alt="stripmall snow removal" />
+      </p>
+      <p class="mb-5">
+        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/marlee2" alt="stripmall snow removal" />
+      </p>
+      <p class="mb-5">
+        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/church.jpg" alt="strip mall snow removal" />
+      </p>
+      <p class="mb-5">
+        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/snow.jpg" alt="strip snow removal" />
+      </p>
+    </div>
+  </div>
 </div>

@@ -2,16 +2,20 @@
 layout: post
 title:  'Snow Clearing'
 author: john
-categories: [ Snow Clearing, Snow Removal, blog ]
+categories: [ Snow Clearing, Snow Removal]
 tags: [red, yellow]
 image: assets/images/snow.jpg
-description: "Keep your property clear of snow even when busy, sick or away"
+description: "Keep your home or business clear of snow this year"
 featured: true
 hidden: true
 ---
 
+## Honesty is baked into our service
+We don't require a deposit. You pay 1/4 of the seasonal fee at the end of December, January, February and March.
+
+## Seasonal
+Taking on new clients all winter. Any seasonal quote covers the period between November 15 and April 15 and includes salt.
+
+## On Demand
 Most snow clearing companies require a seasonal contract. Thats of no use when you are planning a vacation or have unexpected time away from home.
 
-#### Pay as you go
-
-Tend Home allows you to book snow clearing services care with little or no notice. You can also schedule it if you know you are going to be away.
