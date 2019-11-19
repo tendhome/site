@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  'Commercial & Institutional Snow Removal'
-author: john
+title:  'Commercial Snow Removal'
 categories: [Snow Removal, Snow Clearing]
-tags: [red, yellow]
 image: assets/images/church.jpg
 description: 'From places of worship to strip malls, we do it all'
 ---

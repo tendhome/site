@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  'Snow Clearing'
-author: john
+title:  'Snow Removal'
 categories: [ Snow Clearing, Snow Removal]
-tags: [red, yellow]
 image: assets/images/snow.jpg
 description: "Keep your home or business clear of snow this year"
 featured: true
