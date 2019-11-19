@@ -54,18 +54,28 @@
         <div class="collapse navbar-collapse" id="navbarMediumish">
           <ul class="navbar-nav ml-auto">
             {% if page.url == "/" %}
-            <li class="nav-item active">
+              <li class="nav-item active">
             {% else %}
-            <li class="nav-item">
+              <li class="nav-item">
             {% endif %}
-            <a class="nav-link" href="{{ site.baseurl }}/index.html">
-              Blog
-            </a>
+              <a class="nav-link" href="{{ site.baseurl }}/index.html">
+                Home
+              </a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/about">
-              About
-            </a>
+              <a class="nav-link" href="{{ site.baseurl }}/commerical-snow-removal">
+                Commercial
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}/snow-removal">
+                Residential
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}/about">
+                About
+              </a>
             </li>
             {% include search-lunr.html %}
           </ul>
