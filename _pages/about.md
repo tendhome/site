@@ -34,6 +34,9 @@ comments: true
       <p class="mb-5">
         <img class="shadow-lg" src="{{site.baseurl}}/assets/images/snow.jpg" alt="snow removal" />
       </p>
+      <p class="mb-5">
+        <img class="shadow-lg" src="{{site.baseurl}}/assets/images/snow.jpg" alt="leaf collection" />
+      </p>
     </div>
   </div>
 </div>
