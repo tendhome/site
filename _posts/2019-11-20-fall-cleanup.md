@@ -12,6 +12,9 @@ hidden: true
 
 Did winter sneak up on you before you could get your leaves raked up?
 
-#### Fall Cleanup
-
+### Fall Cleanup
 Call us to collect your remaining leaves, while we're there we can give you a free estimate on snow removal for the winter season
+
+
+### What we don't do
+If you're calling us to do work around the house that your parents expect you to do, please be advised we'll simply tell you to do it yourself.
