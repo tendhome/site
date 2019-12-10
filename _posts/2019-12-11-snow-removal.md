@@ -20,6 +20,6 @@ Taking on new clients for the 2019 / 2020 winter season provided they reside in 
 ## Seasonal
 Any seasonal quote covers the period between November 15 and April 15 and includes salt.
 
-## On Demand
-Most snow clearing companies require a seasonal contract. Thats of no use when you are planning a vacation or have unexpected time away from home. We can take care of your property when you are away or when its too much for you to handle yourself.
+## Peace of Mind
+We clear your snow no matter how much falls. Between snowfalls we touch up your property to remove the plow windrow and clear away ice chunks.
 

@@ -1,7 +1,7 @@
 # Site
 name: "Tend Home Inc"
 title: "TendHome"
-description: "Snow Removal Service for Homes, Businesses or Places of Worship info@tendhome.ca 647-382-7084"
+description: "Snow Removal Service for Homes and small Businesses info@tendhome.ca 647-382-7084"
 logo: 'assets/images/tendhome.jpg'
 favicon: 'assets/images/tendhome.jpg'
 include: ["_pages"]
