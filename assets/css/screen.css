@@ -1,11 +1,29 @@
 
+
 /* 
 Template Name: Mediumish 
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
 License: https://www.wowthemes.net/freebies-license/ 
 */
 
+.pricetable {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border:2px solid lightgrey;
+}
 
+th {
+  border:1px solid lightgrey;
+  padding: 2px;
+  margin: 5px;
+}
+
+td{
+  border:1px solid lightgrey;
+  padding: 2px;
+  margin: 5px;
+
+}
 
 .rotate90 {
     margin: 50px;
