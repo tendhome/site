@@ -9,7 +9,7 @@ comments: true
     Contact Us
   </h5>
   <p>
-    call or text: 647-382-7084 (Eli)
+    call or text: (647) 691-6379 (Eli)
   </p>
   <p>
     info@tendhome.ca
