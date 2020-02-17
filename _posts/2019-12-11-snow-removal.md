@@ -8,11 +8,11 @@ featured: true
 hidden: true
 ---
 
-## Honesty is baked into our service
-We don't require a deposit. You pay 1/4 of the seasonal fee at the end of December, January, February and March.
+## Service Area:
+Etobicoke south of The Westway and Toronto South of Lawrence Ave and West of Keele St
 
-## Service Area
-Etobicoke south of The Westway and Toronto South of Lawrence Ave and West of Keele St.
+## Honesty is baked into our service
+We don't require a deposit. You pay 1/4 of the seasonal fee at the end of December, January, February and March
 
 ## New Clients
 Taking on new clients for the 2019 / 2020 winter season provided they reside in the Service Area (see above)

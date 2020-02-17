@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-## Service Area
+## Service Area:
 Lawn and garden care is available in Toronto West of Yonge street to the border of Mississauga
 
 ## All Electric
