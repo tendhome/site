@@ -24,7 +24,7 @@ Our multi stage process has been battle tested to ensure your restored interlock
 
   1. Identify & map the types of weeds you have
   2. Burn off surface weeds with a powerful propane torch
-  3. pressure wash existing sand and weeds
+  3. Pressure wash to remove old sand
   4. Apply acetic acid & borax to root propagating weed areas (violets, dandylions etc)
   5. Burn off any exposed weed roots with torch
   6. Apply chosen sand: silica, polymer or Enviro Bond
