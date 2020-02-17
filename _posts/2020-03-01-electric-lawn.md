@@ -21,7 +21,7 @@ Running gas powered backpack blowers to clean up grass trimmings is overkill. Ou
 Our battery powered trimmers only make noise when cutting, unlike gas powered trimmers that must run the engine until the job is complete
 
 ### Extra Quiet
-Our trimmers use state of the art string that is engineered for silence. Grooves are cut into the string that reduce wind resistance and thus noise
+Our trimmers use state of the art string that is engineered for silence. Grooves are cut into the string that reduce air resistance and thus noise
 
 ## Gas exceptions
 
