@@ -18,8 +18,13 @@ We fully restore concrete, interlock or cobblestone driveways
 We can wash and reseal concrete driveways and have them looking like new
 
 ## Interlock & Cobblestone
+We offer 2 methods: Quick Seal and our Full Process. Quick seal gets done all in one day. Our Full Process may span over multiple days and is dependent on good weather for the sanding and sealing stages.
 
-### Special process
+
+### Quick Seal (1 day)
+We burn off surface weeds, apply silica sand and seal it all in one day. This process is less expensive than the Full Process and does not come with free 2 year maintenance.
+
+### Full process (multi day)
 Our multi stage process has been battle tested to ensure your restored interlock or cobblestone driveway stays weed free as long as possible
 
   1. Identify & map the types of weeds you have
@@ -33,4 +38,5 @@ Our multi stage process has been battle tested to ensure your restored interlock
   9. Optional seal (wetlook, low or medium gloss)
 
 ## Free 2 year maintenance
-We monitor your driveway at no cost for the next 2 seasons and keep it looking like new. Any new weeds are dealt with. Any failed sections are redone at no cost to you
+Available for the Full Process only.
+We monitor yours driveway at no cost for the next 2 seasons and keep it looking like new. Any new weeds are dealt with. Any failed sections are redone at no cost to you
