@@ -2,11 +2,16 @@
 layout: post
 title:  'Pressure Wash'
 categories: [Landscaping, Interlock, Polymer Sand]
-image: assets/images/interlock-1.jpg
+image: assets/images/joel-feature.jpg
 description: "Driveway Restoration"
 featured: true
 hidden: true
 ---
+
+### Before & After
+![before](/assets/images/joel-side-before.jpg)
+
+![after](/assets/images/joel-side-after.jpg)
 
 ## Service Area:
 Driveway restoration is available anywhere in the GTA
@@ -17,23 +22,16 @@ We fully restore concrete, interlock or cobblestone driveways
 ## Concrete
 We can wash and reseal concrete driveways and have them looking like new
 
-## Interlock & Cobblestone
-We offer 2 methods: Quick Seal and our Full Process. Quick seal gets done all in one day. Our Full Process may span over multiple days and is dependent on good weather for the sanding and sealing stages.
-
-
-### Quick Seal (1 day)
-We burn off surface weeds, apply silica sand and seal it all in one day. This process is less expensive than the Full Process and does not come with free 2 year maintenance.
-
-### Full process (multi day)
+### Treatment
 Our multi stage process has been battle tested to ensure your restored interlock or cobblestone driveway stays weed free as long as possible
 
   1. Identify & map the types of weeds you have
   2. Burn off surface weeds with a powerful propane torch
   3. Pressure wash to remove old sand
-  4. Apply acetic acid & borax to root propagating weed areas (violets, dandelions etc)
+  4. Apply acetic acid & borax to root propagating weed areas (violets, dandelions, grasses etc)
   5. Burn off any exposed weed roots with torch
   6. Apply chosen sand: silica, polymer or Enviro Bond
-  7. Plate compact sand
+  7. Plate compact sand (optional)
   8. Mist sand with water
   9. Optional seal (wetlook, low or medium gloss)
 
