@@ -36,5 +36,4 @@ Our multi stage process has been battle tested to ensure your restored interlock
   9. Optional seal (wetlook, low or medium gloss)
 
 ## Free 2 year maintenance
-Available for the Full Process only.
-We monitor yours driveway at no cost for the next 2 seasons and keep it looking like new. Any new weeds are dealt with. Any failed sections are redone at no cost to you
+We monitor your driveway at no cost for the next 2 seasons and keep it looking like new. Any new weeds are dealt with. Any failed sections are redone at no cost to you
